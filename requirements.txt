@@ -1,0 +1,7 @@
+ipykernel
+yfinance
+pandas
+pyspark
+mysql-connector-python
+flask
+dotenv

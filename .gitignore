@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+spenv/
+.env
+*.db
+*.log
+data/
+processed/
+artifacts/
+*.ipynb
