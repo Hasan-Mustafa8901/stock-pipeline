@@ -52,7 +52,7 @@ stock-pipeline/
 ├── app/
 │ ├── app.py
 │ ├── templates/
-│ │ └── home.html
+│ └── home.html
 │
 ├── static/ # (Optional for future custom styles)
 ├── requirements.txt
