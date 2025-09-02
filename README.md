@@ -65,7 +65,7 @@ stock-pipeline/
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/Hasan-Mustafa8901/stock-pipeline.git](https://github.com/Hasan-Mustafa8901/stock-pipeline.git)
+git clone https://github.com/Hasan-Mustafa8901/stock-pipeline.git
 cd stock-pipeline
 ```
 ### Setup Virtual Environment
